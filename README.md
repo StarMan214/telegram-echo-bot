@@ -16,5 +16,5 @@ npm i --save-dev nodemon
 3. Copy the bot's token and paste it into the .env file 
 4. Host your localserver using ngrok (open ngrok and type ngrok http 5000/any other port you want)
 5. Copy the server link from ngrok and paste it into the .env file
-6. After everything is done head over to ngrok again and type - npm run dev (to see the logs)
+6. After everything is done head over to ngrok again and type - npm run dev
 7. Well everything's pretty much ready head over to the bot you made using botfather and type any messages 
